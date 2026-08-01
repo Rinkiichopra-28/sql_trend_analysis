@@ -14,7 +14,8 @@ You can execute and test this exact SQL query live in your browser:
 * **Momentum Spread Indicator:** Measures the percentage deviation between fast and slow moving averages to quantify trend velocity.
 * **Automated Trend Classification:** Classifies weekly data points into **Upward**, **Downward**, or **Neutral** trend states.
 
----
+---<img width="894" height="442" alt="image" src="https://github.com/user-attachments/assets/07d327bb-d42a-4db8-9209-33617b5ddd94" />
+
 
 ##  Tech Stack
 * **Database Engine:** PostgreSQL 15+ (ANSI SQL)
